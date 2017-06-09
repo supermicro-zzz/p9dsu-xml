@@ -9800,6 +9800,10 @@
 		<default>0</default>
 	</attribute>
 	<attribute>
+		<id>FABRIC_GROUP_ID</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
 		<id>LOCATION_CODE</id>
 		<default></default>
 	</attribute>
@@ -37839,6 +37843,10 @@
 	<attribute>
 		<id>FABRIC_CHIP_ID</id>
 		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>FABRIC_GROUP_ID</id>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>LOCATION_CODE</id>
