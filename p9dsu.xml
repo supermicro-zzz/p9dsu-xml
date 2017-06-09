@@ -10149,7 +10149,7 @@
 	</attribute>
 	<attribute>
 		<id>DISABLE_I2C_ENGINE2_PORT0_DIAG_MODE</id>
-		<default></default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>DUMMY_RW</id>
