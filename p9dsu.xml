@@ -10741,6 +10741,10 @@
 		<default>0xFFFFFFFFFFFFFFFF</default>
 	</attribute>
 	<attribute>
+		<id>INTP_BASE_ADDR</id>
+		<default>0,0x0003FFFF80300000</default>
+	</attribute>
+	<attribute>
 		<id>IPMI_INSTANCE</id>
 		<default>0xFF</default>
 	</attribute>
@@ -10771,6 +10775,14 @@
 	<attribute>
 		<id>L3_CACHE_SIZE</id>
 		<default>10240</default>
+	</attribute>
+	<attribute>
+		<id>LPC_BASE_ADDR</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>LPC_BUS_ADDR</id>
+		<default>0,0x0006030000000000,0x200000000000</default>
 	</attribute>
 	<attribute>
 		<id>MB_BIT_RATE_DIVISOR_REFCLK</id>
@@ -10867,6 +10879,22 @@
 	<attribute>
 		<id>PHB_BASE_ADDRS</id>
 		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>PHB_MMIO_ADDRS_32</id>
+		<default>6,0x000600C000000000,0x200000000000,0,0x080000000</default>
+	</attribute>
+	<attribute>
+		<id>PHB_MMIO_ADDRS_64</id>
+		<default>6,0x0006000000000000,0x200000000000,0,0x2000000000</default>
+	</attribute>
+	<attribute>
+		<id>PHB_REG_ADDRS</id>
+		<default>6,0x000600C3C0000000,0x200000000000,0,0x100000</default>
+	</attribute>
+	<attribute>
+		<id>PHB_XIVE_ESB_ADDRS</id>
+		<default>6,0x000600C300000000,0x200000000000,0,0x20000000</default>
 	</attribute>
 	<attribute>
 		<id>PHYS_PATH</id>
@@ -11178,8 +11206,32 @@
 		<default>0xFFFF</default>
 	</attribute>
 	<attribute>
+		<id>XIVE_CONTROLLER_BAR_ADDR</id>
+		<default>0,0x0006030203100000,0x200000000000</default>
+	</attribute>
+	<attribute>
 		<id>XIVE_HW_RESET</id>
 		<default></default>
+	</attribute>
+	<attribute>
+		<id>XIVE_PRESENTATION_BAR_ADDR</id>
+		<default>0,0x6030203180000,0x200000000000</default>
+	</attribute>
+	<attribute>
+		<id>XIVE_PRESENTATION_NVT_ADDR</id>
+		<default>0,0x0006012000000000,0x200000000000</default>
+	</attribute>
+	<attribute>
+		<id>XIVE_ROUTING_END_ADDR</id>
+		<default>0,0x0006011000000000,0x200000000000</default>
+	</attribute>
+	<attribute>
+		<id>XIVE_ROUTING_ESB_ADDR</id>
+		<default>0,0x0006010000000000,0x200000000000</default>
+	</attribute>
+	<attribute>
+		<id>XIVE_THREAD_MGMT1_BAR_ADDR</id>
+		<default>0x0006020000000000</default>
 	</attribute>
 	<attribute>
 		<id>XSCOM_BASE_ADDRESS</id>
