@@ -8226,6 +8226,10 @@
 		<default></default>
 	</attribute>
 	<attribute>
+		<id>XSCOM_BASE_ADDRESS</id>
+		<default>0,0x000603FC00000000,0x200000000000</default>
+	</attribute>
+	<attribute>
 		<id>X_EREPAIR_THRESHOLD_FIELD</id>
 		<default></default>
 	</attribute>
@@ -11172,6 +11176,10 @@
 	<attribute>
 		<id>XIVE_HW_RESET</id>
 		<default></default>
+	</attribute>
+	<attribute>
+		<id>XSCOM_BASE_ADDRESS</id>
+		<default>0,0x000603FC00000000,0x200000000000</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
