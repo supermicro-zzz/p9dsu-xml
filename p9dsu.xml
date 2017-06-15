@@ -10755,7 +10755,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-                <default>1000,1000,0,0,0,0,0,0,0,0,0,0,0,1000,1000,1000,1000,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,0,0,0,400,400,0,0,0,0,0,0,0,0,0,0,0</default>
+		<default>1000,1000,0,0,0,0,0,0,0,0,0,0,0,1000,1000,1000,1000,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,0,0,0,400,400,0,0,0,0,0,0,0,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>I2C_SLAVE_ADDRESS</id>
@@ -88328,7 +88328,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88403,7 +88403,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88478,7 +88478,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88553,7 +88553,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88628,7 +88628,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88703,7 +88703,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88778,7 +88778,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88853,7 +88853,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88928,7 +88928,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89003,7 +89003,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89078,7 +89078,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89153,7 +89153,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89228,7 +89228,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89303,7 +89303,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89378,7 +89378,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89453,7 +89453,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>NA</default>
+		<default>APSS_SENSOR</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
