@@ -88763,7 +88763,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -88838,7 +88838,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -88913,7 +88913,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -88988,7 +88988,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -89063,7 +89063,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -89288,7 +89288,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -89363,7 +89363,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -89588,7 +89588,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -89663,7 +89663,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -89738,7 +89738,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>#N/A</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
