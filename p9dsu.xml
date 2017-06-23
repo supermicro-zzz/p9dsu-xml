@@ -8187,11 +8187,11 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MIN_POWER_CAP_WATTS</id>
-		<default></default>
+		<default>1945</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_BULK_POWER_LIMIT_WATTS</id>
-		<default></default>
+		<default>1945</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_MAX_MEM_POWER_WATTS</id>
@@ -8199,7 +8199,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_BULK_POWER_LIMIT_WATTS</id>
-		<default></default>
+		<default>2375</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_MAX_MEM_POWER_WATTS</id>
