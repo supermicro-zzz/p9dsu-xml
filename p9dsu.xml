@@ -88807,7 +88807,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88882,7 +88882,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -88957,7 +88957,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89032,7 +89032,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89107,7 +89107,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89332,7 +89332,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89407,7 +89407,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89632,7 +89632,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89707,7 +89707,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -89782,7 +89782,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
-		<default>APSS_SENSOR</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
