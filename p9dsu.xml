@@ -11430,7 +11430,7 @@
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VDD_UOHM</id>
-		<default>0x1E</default>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VDN_UOHM</id>
@@ -11442,7 +11442,7 @@
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VDD_UOHM</id>
-		<default>0xFA</default>
+		<default>0xFE</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VDN_UOHM</id>
