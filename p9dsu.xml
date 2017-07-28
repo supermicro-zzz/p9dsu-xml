@@ -30978,7 +30978,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31029,7 +31029,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x01</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31131,7 +31131,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x03</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31484,11 +31484,11 @@
 	</attribute>
 	<attribute>
 		<id>I2C_ENGINE</id>
-		<default>0x01</default>
+		<default>0x02</default>
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31535,7 +31535,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_ENGINE</id>
-		<default>0x01</default>
+		<default>0x02</default>
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
@@ -31586,11 +31586,11 @@
 	</attribute>
 	<attribute>
 		<id>I2C_ENGINE</id>
-		<default>0x01</default>
+		<default>0x02</default>
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31641,7 +31641,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x0c</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31692,7 +31692,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x04</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
@@ -31743,7 +31743,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_PORT</id>
-		<default>0x02</default>
+		<default>0x05</default>
 	</attribute>
 	<attribute>
 		<id>MRW_TYPE</id>
