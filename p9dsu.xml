@@ -2450,7 +2450,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x4E</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2516,7 +2516,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x4D</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2527,7 +2527,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x4F</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2560,7 +2560,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x06</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2571,7 +2571,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x07</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2860,28 +2860,6 @@
 	<id>/sys-0/apss-0/apss.VDD</id>
 	<property>
 	<id>DIRECTION</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-1/apss.ADCCH0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-1/apss.ADCCH1</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
 	<value></value>
 	</property>
 </globalSetting>
