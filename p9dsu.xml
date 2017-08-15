@@ -7687,7 +7687,7 @@
 	</attribute>
 	<attribute>
 		<id>MANUFACTURER</id>
-		<default></default>
+		<default>SUPERMICRO</default>
 	</attribute>
 	<attribute>
 		<id>MAX_ALLOWED_DIMM_FREQ</id>
@@ -7871,7 +7871,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_MEM_THROTTLE_DENOMINATOR</id>
-		<default></default>
+		<default>512</default>
 	</attribute>
 	<attribute>
 		<id>MRW_SAFEMODE_MEM_THROTTLE_NUMERATOR_PER_CHIP</id>
@@ -7951,7 +7951,7 @@
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_MAX_DRAM_DATABUS_UTIL</id>
-		<default>0x00002328</default>
+		<default>0x00002710</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_MAX_NUMBER_DIMMS_POSSIBLE_PER_VMEM_REGULATOR</id>
@@ -8029,7 +8029,7 @@
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_TEMP_REFRESH_RANGE</id>
-		<default>1</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_THERMAL_MEMORY_POWER_LIMIT</id>
@@ -8152,15 +8152,15 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_DIMM_ERROR_TEMP_DEG_C</id>
-		<default></default>
+		<default>84</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_DIMM_READ_TIMEOUT_SEC</id>
-		<default></default>
+		<default>30</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_DIMM_THROTTLE_TEMP_DEG_C</id>
-		<default></default>
+		<default>84</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MEMCTRL_ERROR_TEMP_DEG_C</id>
@@ -8175,28 +8175,32 @@
 		<default></default>
 	</attribute>
 	<attribute>
+		<id>OPEN_POWER_MIN_MEM_UTILIZATION_POWER_CAP</id>
+		<default>5</default>
+	</attribute>
+	<attribute>
 		<id>OPEN_POWER_MIN_MEM_UTILIZATION_THROTTLING</id>
-		<default></default>
+		<default>5</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MIN_POWER_CAP_WATTS</id>
-		<default>1945</default>
+		<default>340</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_BULK_POWER_LIMIT_WATTS</id>
-		<default>1945</default>
+		<default>1650</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_MAX_MEM_POWER_WATTS</id>
-		<default></default>
+		<default>325</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_BULK_POWER_LIMIT_WATTS</id>
-		<default>2375</default>
+		<default>1650</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_MAX_MEM_POWER_WATTS</id>
-		<default></default>
+		<default>500</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PM_MODE</id>
@@ -8208,31 +8212,31 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_DVFS_TEMP_DEG_C</id>
-		<default></default>
+		<default>85</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_ERROR_TEMP_DEG_C</id>
-		<default></default>
+		<default>87</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_READ_TIMEOUT_SEC</id>
-		<default></default>
+		<default>5</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_WEIGHT</id>
-		<default></default>
+		<default>10</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_QUAD_WEIGHT</id>
-		<default></default>
+		<default>10</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_REGULATOR_EFFICIENCY_FACTOR</id>
-		<default></default>
+		<default>85</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_SOFT_MIN_PCAP_WATTS</id>
-		<default></default>
+		<default>200</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_TURBO_MODE_SUPPORTED</id>
