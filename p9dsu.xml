@@ -31072,7 +31072,7 @@
 	</attribute>
 	<attribute>
 		<id>BMC_SW_TYPE</id>
-		<default>openbmc</default>
+		<default>supermicro</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_VER</id>
