@@ -31092,7 +31092,7 @@
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
-		<default>CHIP</default>
+		<default>SP</default>
 	</attribute>
 	<attribute>
 		<id>FRU_ID</id>
