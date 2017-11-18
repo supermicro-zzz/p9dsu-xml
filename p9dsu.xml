@@ -5978,6 +5978,38 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/P9DSU-0/skipper-14</id>
+	<property>
+	<id>CONNECTOR_TYPE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/P9DSU-0/skipper-14/daughtercard-10</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>33</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/P9DSU-0/skipper-14/daughtercard-10/tpm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/P9DSU-0/skipper-14/daughtercard-10/tpm-0/tpm.i2c-0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>VPD_SIZE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/P9DSU-0/dimmconn-0</id>
 	<property>
 	<id>CONNECTOR_TYPE</id>
@@ -78776,6 +78808,228 @@
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
+		<default>NA</default>
+	</attribute>
+</targetInstance>
+<targetInstance>
+	<id>skipper-14</id>
+	<type>connector-card-generic</type>
+	<is_root>false</is_root>
+	<instance_name>skipper</instance_name>
+	<position>14</position>
+	<child_id>daughtercard-10</child_id>
+	<attribute>
+		<id>CLASS</id>
+		<default>CONNECTOR</default>
+	</attribute>
+	<attribute>
+		<id>CONNECTOR_TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE_TYPE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>MRW_TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>POSITION</id>
+		<default>14</default>
+	</attribute>
+	<attribute>
+		<id>TYPE</id>
+		<default>NA</default>
+	</attribute>
+</targetInstance>
+<targetInstance>
+	<id>daughtercard-10</id>
+	<type>card-daughtercard</type>
+	<is_root>false</is_root>
+	<instance_name>daughtercard</instance_name>
+	<position>10</position>
+	<child_id>tpm-0</child_id>
+	<attribute>
+		<id>CARD_TYPE</id>
+		<default>TPM</default>
+	</attribute>
+	<attribute>
+		<id>CLASS</id>
+		<default>CARD</default>
+	</attribute>
+	<attribute>
+		<id>FRU_ID</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE_TYPE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>MRW_TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>POSITION</id>
+		<default>10</default>
+	</attribute>
+	<attribute>
+		<id>RU_TYPE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>STANDBY_PLUGGABLE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>TYPE</id>
+		<default>NA</default>
+	</attribute>
+</targetInstance>
+<targetInstance>
+	<id>tpm-0</id>
+	<type>chip-tpm-cectpm</type>
+	<is_root>false</is_root>
+	<instance_name>tpm</instance_name>
+	<position>0</position>
+	<child_id>tpm.i2c-0</child_id>
+	<attribute>
+		<id>CCIN</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>CLASS</id>
+		<default>CHIP</default>
+	</attribute>
+	<attribute>
+		<id>DECONFIG_GARDABLE</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>FRU_ID</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>FSI_OPTION_FLAGS</id>
+		<default>
+				<field><id>flipPort</id><value></value></field>
+				<field><id>reserved</id><value></value></field>
+		</default>
+	</attribute>
+	<attribute>
+		<id>HWAS_STATE_CHANGED_FLAG</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>HWAS_STATE_CHANGED_SUBSCRIPTION_MASK</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE_TYPE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>MODEL</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>MRW_TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>PHYS_PATH</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>POSITION</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>PRIMARY_CAPABILITIES</id>
+		<default>
+				<field><id>supportsFsiScom</id><value></value></field>
+				<field><id>supportsXscom</id><value></value></field>
+				<field><id>supportsInbandScom</id><value></value></field>
+				<field><id>reserved</id><value></value></field>
+		</default>
+	</attribute>
+	<attribute>
+		<id>RESOURCE_IS_CRITICAL</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>RU_TYPE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>TPM_INFO</id>
+		<default>
+				<field><id>tpmEnabled</id><value>1</value></field>
+				<field><id>i2cMasterPath</id><value>physical:sys-0/node-0/proc-0</value></field>
+				<field><id>port</id><value>0</value></field>
+				<field><id>devAddrLocality0</id><value>0xAE</value></field>
+				<field><id>devAddrLocality1</id><value>0xA8</value></field>
+				<field><id>devAddrLocality2</id><value>0xAA</value></field>
+				<field><id>devAddrLocality3</id><value>0xA4</value></field>
+				<field><id>devAddrLocality4</id><value>0xA6</value></field>
+				<field><id>engine</id><value>2</value></field>
+				<field><id>byteAddrOffset</id><value>0x01</value></field>
+		</default>
+	</attribute>
+	<attribute>
+		<id>TYPE</id>
+		<default>TPM</default>
+	</attribute>
+</targetInstance>
+<targetInstance>
+	<id>tpm.i2c-0</id>
+	<type>unit-i2c-slave</type>
+	<is_root>false</is_root>
+	<instance_name>tpm.i2c</instance_name>
+	<position>0</position>
+	<attribute>
+		<id>BUS_TYPE</id>
+		<default>I2C</default>
+	</attribute>
+	<attribute>
+		<id>CHIP_UNIT</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>CLASS</id>
+		<default>UNIT</default>
+	</attribute>
+	<attribute>
+		<id>DIRECTION</id>
+		<default>IN</default>
+	</attribute>
+	<attribute>
+		<id>I2C_ADDRESS</id>
+		<default>0xAE</default>
+	</attribute>
+	<attribute>
+		<id>MRW_TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>VPD_SIZE</id>
 		<default>NA</default>
 	</attribute>
 </targetInstance>
