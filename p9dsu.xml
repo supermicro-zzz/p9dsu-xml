@@ -10375,7 +10375,7 @@
 	</attribute>
 	<attribute>
 		<id>ASYNC_NEST_FREQ_MHZ</id>
-		<default>1600</default>
+		<default>1866</default>
 	</attribute>
 	<attribute>
 		<id>AUX_FUNC_INVOCATION_TIME_MS</id>
@@ -10627,7 +10627,7 @@
 	</attribute>
 	<attribute>
 		<id>FREQ_PB_MHZ</id>
-		<default>1600</default>
+		<default>1866</default>
 	</attribute>
 	<attribute>
 		<id>FREQ_PCIE_MHZ</id>
@@ -10760,7 +10760,7 @@
 	</attribute>
 	<attribute>
 		<id>MAX_ALLOWED_DIMM_FREQ</id>
-		<default>2400,2400,2400,2133,2133</default>
+		<default>2666,2666,2666,2133,2133</default>
 	</attribute>
 	<attribute>
 		<id>MAX_CHIPLETS_PER_PROC</id>
@@ -11056,7 +11056,7 @@
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_SUPPORTED_FREQ</id>
-		<default>1866,2133,2400,0</default>
+		<default>1866,2133,2400,2666</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_TEMP_REFRESH_MODE</id>
