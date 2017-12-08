@@ -10630,6 +10630,10 @@
 		<default>1866</default>
 	</attribute>
 	<attribute>
+		<id>FREQ_PB_MHZ_POUNDV_FALLBACK</id>
+		<default>1600</default>
+	</attribute>
+	<attribute>
 		<id>FREQ_PCIE_MHZ</id>
 		<default></default>
 	</attribute>
