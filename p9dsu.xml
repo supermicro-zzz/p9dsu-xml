@@ -11672,7 +11672,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_VDM_DISABLE</id>
-		<default>0x01</default>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_WOF_DISABLE</id>
