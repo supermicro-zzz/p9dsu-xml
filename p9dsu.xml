@@ -8268,28 +8268,9 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/P9DSU-0/proc_socket-0/module-0/p9_proc_s/fsi-cm-0</id>
-	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>FSI_LINK</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/P9DSU-0/proc_socket-0/module-0/p9_proc_s/fsim-0</id>
 	<property>
 	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>FSI_LINK</id>
 	<value></value>
 	</property>
 	<property>
@@ -8304,10 +8285,6 @@
 	<value></value>
 	</property>
 	<property>
-	<id>FSI_LINK</id>
-	<value></value>
-	</property>
-	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
 	</property>
@@ -8316,10 +8293,6 @@
 	<id>/sys-0/node-0/P9DSU-0/proc_socket-0/module-0/p9_proc_s/fsim-2</id>
 	<property>
 	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>FSI_LINK</id>
 	<value></value>
 	</property>
 	<property>
