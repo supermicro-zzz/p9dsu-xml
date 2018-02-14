@@ -74838,7 +74838,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>6495</default>
+		<default>6500</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -74850,7 +74850,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default> 0</default>
+		<default>-5</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -74933,7 +74933,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>26667</default>
+		<default>26760</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -74945,7 +74945,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-8</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -75503,7 +75503,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>50000</default>
+		<default>66050</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -75515,7 +75515,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-20</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -75598,7 +75598,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>26667</default>
+		<default>26760</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -75610,7 +75610,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-9</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -75883,7 +75883,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>26667</default>
+		<default>26760</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -75895,7 +75895,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-9</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -75978,7 +75978,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>26667</default>
+		<default>26760</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -75990,7 +75990,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
