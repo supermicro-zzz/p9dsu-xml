@@ -11208,7 +11208,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MIN_POWER_CAP_WATTS</id>
-		<default>340</default>
+		<default>1550</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_BULK_POWER_LIMIT_WATTS</id>
