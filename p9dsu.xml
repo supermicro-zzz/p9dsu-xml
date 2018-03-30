@@ -11452,7 +11452,7 @@
 	</attribute>
 	<attribute>
 		<id>SUPPORTED_STOP_STATES</id>
-		<default>0xEC100000</default>
+		<default>0xEC000000</default>
 	</attribute>
 	<attribute>
 		<id>SUPPORTS_DYNAMIC_MEM_VOLT</id>
