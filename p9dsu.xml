@@ -7367,20 +7367,6 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/P9DSU-0/proc_socket-0/module-0/p9_proc_s/capp0</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/P9DSU-0/proc_socket-0/module-0/p9_proc_s/capp1</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/P9DSU-0/proc_socket-0/module-0/p9_proc_s/cpu_func_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
